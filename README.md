@@ -4,8 +4,8 @@
   <img src="./affondra-logo.jpg" width="600">
 </p>
 
-[![version](https://img.shields.io/github/v/tag/EG-easy/affondra)](https://github.com/EG-easy/affondra/releases/latest)
-[![Go Report Card](https://goreportcard.com/badge/github.com/EG-easy/affondra)](https://goreportcard.com/report/github.com/EG-easy/affondra)
+[![version](https://img.shields.io/github/v/tag/intellltech/affondra)](https://github.com/intellltech/affondra/releases/latest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/intellltech/affondra)](https://goreportcard.com/report/github.com/intellltech/affondra)
 
 Affondra is a blockchain application using [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) that anyone can use when trading NFT items. Users can sell their NFT item peer to peer, and the person who introduce the items can earn affiliate reward in Affondra market.
 
@@ -23,7 +23,7 @@ Affondra is a blockchain application using [cosmos-sdk](https://github.com/cosmo
 Firstly, watch [Demo](https://affondra.web.app/)!
 ## API Endpoint (Swagger)
 You can refer to the api endpoint of Affondra module and NFT module.  
-View in [Swagger Hub](https://app.swaggerhub.com/apis/EG-easy/affondra/1.0).
+View in [Swagger Hub](https://app.swaggerhub.com/apis/intellltech/affondra/1.0).
 
 ## System Architecture
 <p align="center">
@@ -43,7 +43,7 @@ View in [Swagger Hub](https://app.swaggerhub.com/apis/EG-easy/affondra/1.0).
 Go 1.15+ is required for the Cosmos SDK.
 
 ```bash
-$ git clone github.com/EG-easy/affondra.git
+$ git clone github.com/intellltech/affondra.git
 $ cd affondra && git checkout -b [branch] tags/[latest release tag]
 $ make
 ```
